@@ -4,35 +4,43 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import CoreLocation
+import CoreTelephony
+import Darwin
+import Dispatch
 import Foundation
+import Network
 @_exported import SPaySdk
 import Swift
+import SystemConfiguration
 import UIKit
 import _Concurrency
 import _StringProcessing
-@_hasMissingDesignatedInitializers @objc(SBPaymentTokenRequest) final public class SBPaymentTokenRequest : ObjectiveC.NSObject {
-  @objc convenience public init(apiKey: Swift.String, merchantLogin: Swift.String?, orderId: Swift.String, redirectUri: Swift.String)
-  @objc convenience public init(apiKey: Swift.String, redirectUri: Swift.String, merchantLogin: Swift.String?, amount: Swift.Int, currency: Swift.String, mobilePhone: Swift.String?, orderNumber: Swift.String, recurrentExipiry: Swift.String, recurrentFrequency: Swift.Int)
+@_hasMissingDesignatedInitializers @objc(SPaymentTokenRequest) final public class SPaymentTokenRequest : ObjectiveC.NSObject {
+  @objc convenience public init(merchantLogin: Swift.String?, orderId: Swift.String, redirectUri: Swift.String)
+  @objc convenience public init(redirectUri: Swift.String, merchantLogin: Swift.String?, amount: Swift.Int, currency: Swift.String, mobilePhone: Swift.String?, orderNumber: Swift.String, recurrentExipiry: Swift.String, recurrentFrequency: Swift.Int)
   @objc deinit
 }
 extension UIKit.UIImageView : SPaySdk.SBShimmeringView {
 }
-@_hasMissingDesignatedInitializers @objc(SBPaymentRequest) final public class SBPaymentRequest : ObjectiveC.NSObject {
-  @objc convenience public init(apiKey: Swift.String, orderId: Swift.String, paymentToken: Swift.String)
-  @objc convenience public init(apiKey: Swift.String, orderId: Swift.String, paymentTokenId: Swift.String)
+extension Network.NWInterface.InterfaceType : Swift.CaseIterable {
+  public static var allCases: [Network.NWInterface.InterfaceType]
+  public typealias AllCases = [Network.NWInterface.InterfaceType]
+}
+@_hasMissingDesignatedInitializers @objc(SPaymentRequest) final public class SPaymentRequest : ObjectiveC.NSObject {
+  @objc convenience public init(orderId: Swift.String, paymentToken: Swift.String)
+  @objc convenience public init(orderId: Swift.String, paymentTokenId: Swift.String)
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc final public class SBPay : ObjectiveC.NSObject {
-  @objc public static func setup()
+@_inheritsConvenienceInitializers @objc final public class SPay : ObjectiveC.NSObject {
+  @objc public static func setup(apiKey: Swift.String, completion: SPaySdk.Action? = nil)
   @objc public static var isReadyForSPay: Swift.Bool {
     @objc get
   }
-  @objc public static func getPaymentToken(with viewController: UIKit.UIViewController, with paymentTokenRequest: SPaySdk.SBPaymentTokenRequest, completion: @escaping (SPaySdk.SBPaymentTokenResponse) -> Swift.Void)
-  @objc public static func pay(with paymentRequest: SPaySdk.SBPaymentRequest, completion: @escaping (_ state: SPaySdk.SBPayState, _ info: Swift.String) -> Swift.Void)
-  @objc public static func payWithOrderId(with viewController: UIKit.UIViewController, with paymentRequest: SPaySdk.SBFullPaymentRequest, completion: @escaping (_ state: SPaySdk.SBPayState, _ info: Swift.String) -> Swift.Void)
-  @objc public static func completePayment(paymentState: SPaySdk.SBPayState, completion: @escaping () -> Swift.Void)
+  @objc public static func getPaymentToken(with viewController: UIKit.UIViewController, with paymentTokenRequest: SPaySdk.SPaymentTokenRequest, completion: @escaping (SPaySdk.SPaymentTokenResponse) -> Swift.Void)
+  @objc public static func pay(with paymentRequest: SPaySdk.SPaymentRequest, completion: @escaping (_ state: SPaySdk.SPayState, _ info: Swift.String) -> Swift.Void)
+  @objc public static func payWithOrderId(with viewController: UIKit.UIViewController, with paymentRequest: SPaySdk.SFullPaymentRequest, completion: @escaping (_ state: SPaySdk.SPayState, _ info: Swift.String) -> Swift.Void)
+  @objc public static func completePayment(paymentState: SPaySdk.SPayState, completion: @escaping () -> Swift.Void)
   @objc public static func getAuthURL(_ url: Foundation.URL)
-  public static func debugConfig(network: SPaySdk.NetworkState, ssl: Swift.Bool)
   @objc override dynamic public init()
   @objc deinit
 }
@@ -45,7 +53,7 @@ public enum HTTPMethod : Swift.String {
     get
   }
 }
-@objc public enum SBPayState : Swift.Int {
+@objc public enum SPayState : Swift.Int {
   case success = 0
   case waiting
   case error
@@ -68,16 +76,16 @@ extension SPaySdk.SBShimmeringView {
   }
 }
 public typealias Action = (() -> Swift.Void)
-@objc(SBFullPaymentRequest) final public class SBFullPaymentRequest : ObjectiveC.NSObject {
-  @objc public init(apiKey: Swift.String, merchantLogin: Swift.String? = nil, orderId: Swift.String, language: Swift.String? = nil, redirectUri: Swift.String)
+@objc(SFullPaymentRequest) final public class SFullPaymentRequest : ObjectiveC.NSObject {
+  @objc public init(merchantLogin: Swift.String? = nil, orderId: Swift.String, language: Swift.String? = nil, redirectUri: Swift.String)
   @objc deinit
 }
-@_hasMissingDesignatedInitializers @objc public class SBPError : ObjectiveC.NSObject {
+@_hasMissingDesignatedInitializers @objc public class SPError : ObjectiveC.NSObject {
   @objc public var errorDescription: Swift.String
   @objc deinit
 }
 public enum NetworkState : Swift.String, Swift.CaseIterable, Swift.Codable {
-  case Test, Prod, Local
+  case Mocker, Prom, Ift, Psi, Local
   public init?(rawValue: Swift.String)
   public typealias AllCases = [SPaySdk.NetworkState]
   public typealias RawValue = Swift.String
@@ -88,12 +96,12 @@ public enum NetworkState : Swift.String, Swift.CaseIterable, Swift.Codable {
     get
   }
 }
-@objc(SBPaymentTokenResponse) final public class SBPaymentTokenResponse : ObjectiveC.NSObject {
+@objc(SPaymentTokenResponse) final public class SPaymentTokenResponse : ObjectiveC.NSObject {
   @objc final public var paymentToken: Swift.String?
   @objc final public var paymentTokenId: Swift.String?
   @objc final public var tokenExpiration: Swift.Int
-  @objc final public var error: SPaySdk.SBPError?
-  @objc public init(paymentToken: Swift.String? = nil, paymentTokenId: Swift.String? = nil, tokenExpiration: Swift.Int = 0, error: SPaySdk.SBPError? = nil)
+  @objc final public var error: SPaySdk.SPError?
+  @objc public init(paymentToken: Swift.String? = nil, paymentTokenId: Swift.String? = nil, tokenExpiration: Swift.Int = 0, error: SPaySdk.SPError? = nil)
   @objc deinit
 }
 @objc @IBDesignable @_Concurrency.MainActor(unsafe) final public class SBPButton : UIKit.UIView {
@@ -105,9 +113,9 @@ public enum NetworkState : Swift.String, Swift.CaseIterable, Swift.Codable {
 extension SPaySdk.HTTPMethod : Swift.Equatable {}
 extension SPaySdk.HTTPMethod : Swift.Hashable {}
 extension SPaySdk.HTTPMethod : Swift.RawRepresentable {}
-extension SPaySdk.SBPayState : Swift.Equatable {}
-extension SPaySdk.SBPayState : Swift.Hashable {}
-extension SPaySdk.SBPayState : Swift.RawRepresentable {}
+extension SPaySdk.SPayState : Swift.Equatable {}
+extension SPaySdk.SPayState : Swift.Hashable {}
+extension SPaySdk.SPayState : Swift.RawRepresentable {}
 extension SPaySdk.NetworkState : Swift.Equatable {}
 extension SPaySdk.NetworkState : Swift.Hashable {}
 extension SPaySdk.NetworkState : Swift.RawRepresentable {}

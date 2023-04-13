@@ -254,15 +254,6 @@ using UInt = size_t;
 
 #if defined(__OBJC__)
 
-@class NSString;
-
-SWIFT_CLASS_NAMED("SBFullPaymentRequest")
-@interface SBFullPaymentRequest : NSObject
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey merchantLogin:(NSString * _Nullable)merchantLogin orderId:(NSString * _Nonnull)orderId language:(NSString * _Nullable)language redirectUri:(NSString * _Nonnull)redirectUri OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
 @class NSCoder;
 
 IB_DESIGNABLE
@@ -274,69 +265,78 @@ SWIFT_CLASS("_TtC7SPaySdk9SBPButton")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
+@class NSString;
+
+SWIFT_CLASS_NAMED("SFullPaymentRequest")
+@interface SFullPaymentRequest : NSObject
+- (nonnull instancetype)initWithMerchantLogin:(NSString * _Nullable)merchantLogin orderId:(NSString * _Nonnull)orderId language:(NSString * _Nullable)language redirectUri:(NSString * _Nonnull)redirectUri OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 
 /// Class for validation SDK errors
-SWIFT_CLASS("_TtC7SPaySdk8SBPError")
-@interface SBPError : NSObject
+SWIFT_CLASS("_TtC7SPaySdk7SPError")
+@interface SPError : NSObject
 @property (nonatomic, copy) NSString * _Nonnull errorDescription;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 @class UIViewController;
-@class SBPaymentTokenRequest;
-@class SBPaymentTokenResponse;
-@class SBPaymentRequest;
-enum SBPayState : NSInteger;
+@class SPaymentTokenRequest;
+@class SPaymentTokenResponse;
+@class SPaymentRequest;
+enum SPayState : NSInteger;
 @class NSURL;
 
-SWIFT_CLASS("_TtC7SPaySdk5SBPay")
-@interface SBPay : NSObject
-+ (void)setup;
-/// Проверяет наличие установленного МП СБОЛ или Сбербанк Онлайн на устройстве
+SWIFT_CLASS("_TtC7SPaySdk4SPay")
+@interface SPay : NSObject
+/// Ключ Kлиента для работы с сервисами платежного шлюза через SDK.
++ (void)setupWithApiKey:(NSString * _Nonnull)apiKey completion:(void (^ _Nullable)(void))completion;
 /// Требуется задать LSApplicationQueriesSchemes в Info.plist
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) BOOL isReadyForSPay;)
 + (BOOL)isReadyForSPay SWIFT_WARN_UNUSED_RESULT;
 /// Метод получения PaymentToken
-+ (void)getPaymentTokenWith:(UIViewController * _Nonnull)viewController with:(SBPaymentTokenRequest * _Nonnull)paymentTokenRequest completion:(void (^ _Nonnull)(SBPaymentTokenResponse * _Nonnull))completion;
++ (void)getPaymentTokenWith:(UIViewController * _Nonnull)viewController with:(SPaymentTokenRequest * _Nonnull)paymentTokenRequest completion:(void (^ _Nonnull)(SPaymentTokenResponse * _Nonnull))completion;
 /// Метод для оплаты
-+ (void)payWith:(SBPaymentRequest * _Nonnull)paymentRequest completion:(void (^ _Nonnull)(enum SBPayState, NSString * _Nonnull))completion;
++ (void)payWith:(SPaymentRequest * _Nonnull)paymentRequest completion:(void (^ _Nonnull)(enum SPayState, NSString * _Nonnull))completion;
 /// Единый метод для оплаты
-+ (void)payWithOrderIdWith:(UIViewController * _Nonnull)viewController with:(SBFullPaymentRequest * _Nonnull)paymentRequest completion:(void (^ _Nonnull)(enum SBPayState, NSString * _Nonnull))completion;
++ (void)payWithOrderIdWith:(UIViewController * _Nonnull)viewController with:(SFullPaymentRequest * _Nonnull)paymentRequest completion:(void (^ _Nonnull)(enum SPayState, NSString * _Nonnull))completion;
 /// Метод для завершения оплаты и закрытия окна SDK
-+ (void)completePaymentWithPaymentState:(enum SBPayState)paymentState completion:(void (^ _Nonnull)(void))completion;
-/// Метод для авторизации SBOL необходимо интегрировать в AppDelegate
++ (void)completePaymentWithPaymentState:(enum SPayState)paymentState completion:(void (^ _Nonnull)(void))completion;
+/// Метод для авторизации банка необходимо интегрировать в AppDelegate
 + (void)getAuthURL:(NSURL * _Nonnull)url;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-typedef SWIFT_ENUM(NSInteger, SBPayState, open) {
-  SBPayStateSuccess = 0,
-  SBPayStateWaiting = 1,
-  SBPayStateError = 2,
+typedef SWIFT_ENUM(NSInteger, SPayState, open) {
+  SPayStateSuccess = 0,
+  SPayStateWaiting = 1,
+  SPayStateError = 2,
 };
 
 
-SWIFT_CLASS_NAMED("SBPaymentRequest")
-@interface SBPaymentRequest : NSObject
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey orderId:(NSString * _Nonnull)orderId paymentToken:(NSString * _Nonnull)paymentToken;
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey orderId:(NSString * _Nonnull)orderId paymentTokenId:(NSString * _Nonnull)paymentTokenId;
+SWIFT_CLASS_NAMED("SPaymentRequest")
+@interface SPaymentRequest : NSObject
+- (nonnull instancetype)initWithOrderId:(NSString * _Nonnull)orderId paymentToken:(NSString * _Nonnull)paymentToken;
+- (nonnull instancetype)initWithOrderId:(NSString * _Nonnull)orderId paymentTokenId:(NSString * _Nonnull)paymentTokenId;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 
-SWIFT_CLASS_NAMED("SBPaymentTokenRequest")
-@interface SBPaymentTokenRequest : NSObject
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey merchantLogin:(NSString * _Nullable)merchantLogin orderId:(NSString * _Nonnull)orderId redirectUri:(NSString * _Nonnull)redirectUri;
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey redirectUri:(NSString * _Nonnull)redirectUri merchantLogin:(NSString * _Nullable)merchantLogin amount:(NSInteger)amount currency:(NSString * _Nonnull)currency mobilePhone:(NSString * _Nullable)mobilePhone orderNumber:(NSString * _Nonnull)orderNumber recurrentExipiry:(NSString * _Nonnull)recurrentExipiry recurrentFrequency:(NSInteger)recurrentFrequency;
+SWIFT_CLASS_NAMED("SPaymentTokenRequest")
+@interface SPaymentTokenRequest : NSObject
+- (nonnull instancetype)initWithMerchantLogin:(NSString * _Nullable)merchantLogin orderId:(NSString * _Nonnull)orderId redirectUri:(NSString * _Nonnull)redirectUri;
+- (nonnull instancetype)initWithRedirectUri:(NSString * _Nonnull)redirectUri merchantLogin:(NSString * _Nullable)merchantLogin amount:(NSInteger)amount currency:(NSString * _Nonnull)currency mobilePhone:(NSString * _Nullable)mobilePhone orderNumber:(NSString * _Nonnull)orderNumber recurrentExipiry:(NSString * _Nonnull)recurrentExipiry recurrentFrequency:(NSInteger)recurrentFrequency;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 
-SWIFT_CLASS_NAMED("SBPaymentTokenResponse")
-@interface SBPaymentTokenResponse : NSObject
+SWIFT_CLASS_NAMED("SPaymentTokenResponse")
+@interface SPaymentTokenResponse : NSObject
 /// Платежный токен. Отсутствует, если заполнен paymentTokenId
 @property (nonatomic, copy) NSString * _Nullable paymentToken;
 /// Идентификатор платежного токена. Отсутствует, если заполнен paymentToken
@@ -344,11 +344,15 @@ SWIFT_CLASS_NAMED("SBPaymentTokenResponse")
 /// Срок действия платежного токена в формате UNIX (POSIX) времени
 @property (nonatomic) NSInteger tokenExpiration;
 /// Ошибка получения токена
-@property (nonatomic, strong) SBPError * _Nullable error;
-- (nonnull instancetype)initWithPaymentToken:(NSString * _Nullable)paymentToken paymentTokenId:(NSString * _Nullable)paymentTokenId tokenExpiration:(NSInteger)tokenExpiration error:(SBPError * _Nullable)error OBJC_DESIGNATED_INITIALIZER;
+@property (nonatomic, strong) SPError * _Nullable error;
+- (nonnull instancetype)initWithPaymentToken:(NSString * _Nullable)paymentToken paymentTokenId:(NSString * _Nullable)paymentTokenId tokenExpiration:(NSInteger)tokenExpiration error:(SPError * _Nullable)error OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
+
+
+
 
 
 
