@@ -10,11 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		UUfGpIMC3OfQFaRzEXFBKvunFfo=
-		</data>
-		<key>Auth.json</key>
-		<data>
-		Z/1jmGfKTJMZjLMDi+R+B8p8pbs=
+		yWVJDihUuTF8BPH+THWp9pZVZ0M=
 		</data>
 		<key>Headers/SPaySdk-Swift.h</key>
 		<data>
@@ -28,13 +24,9 @@
 		<data>
 		+nwCc6CAGZWPg+L2HcuUJuPAFGs=
 		</data>
-		<key>ListCards.json</key>
-		<data>
-		Z9X1Fsn0Z3zVOfUPZ/n7axrU1xI=
-		</data>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0yu4/kioQmIzlV+aP8ArRVfEwCg=
+		wLoEeMUTaHxtVSsvTLOIS5itQ5s=
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,11 +42,11 @@
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9JjoBw6ZVvrnlw3moOwHisMcmJc=
+		diMxdglVQiR02EhixdV0UmIdWko=
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0yu4/kioQmIzlV+aP8ArRVfEwCg=
+		wLoEeMUTaHxtVSsvTLOIS5itQ5s=
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,23 +62,11 @@
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+RHZ1bggmuvN9VR/6BVOyghLQOo=
+		49LFN2rr0X03Pnd8DDeK27qNY/Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		lGuxCuo+L+ghiGtFGYom829skT8=
-		</data>
-		<key>PaymentOrderSDK.json</key>
-		<data>
-		1hiNgi7qmm0yKU1ZC8crMx9M20s=
-		</data>
-		<key>PaymentToken.json</key>
-		<data>
-		8wbSDu2HsTdKWNWKclBuSawInZg=
-		</data>
-		<key>RemoteConfig.json</key>
-		<data>
-		W68fwbGMQWNjHN/kp4VOP0D1dHQ=
 		</data>
 		<key>SB Sans Text Medium.ttf</key>
 		<data>
@@ -133,7 +113,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OUFtnJDY8H0uMhWmqZdEG9pCB3s=
+			qIS6TR3aagQWjQZ50iQTB9bAmow=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -152,14 +132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AhzupyC4/YQou155fATX6ynvtlhm5NVnzRJBs/4aSGc=
-			</data>
-		</dict>
-		<key>Auth.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			woNimjBF9wsSry+XcFnXk35MpFUeM5IXHDbgQXqKOHc=
+			SW+IgKx8qFhpeWHkc8/eaeEqRjOrdppomwO4OfgHlww=
 			</data>
 		</dict>
 		<key>Headers/SPaySdk-Swift.h</key>
@@ -176,18 +149,11 @@
 			BFWii7Wp+jYctAqDQkG6U+JaLXtJdJ5gQyPPLnifNA4=
 			</data>
 		</dict>
-		<key>ListCards.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RdCFTATjM4P5rE4XKuYHkvtxwq1Xx4Hur5dXTJFtvPA=
-			</data>
-		</dict>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1oInC8fYFrT+nM8nTVvXNRO4hB1Qerb4p2JAWOuI1hg=
+			t7f+HLwmh1CV3imtRQKwuOF/RPL63DYk6Y2Pg3e6HX0=
 			</data>
 		</dict>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -215,14 +181,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k9XgDvPaGlRcLDMaFxwPrJc1HyWeWAeInipXziXsRD0=
+			V2n/g9LQdB2nWzQEqg6HADSc02I6kmmD8h+qb7migzs=
 			</data>
 		</dict>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1oInC8fYFrT+nM8nTVvXNRO4hB1Qerb4p2JAWOuI1hg=
+			t7f+HLwmh1CV3imtRQKwuOF/RPL63DYk6Y2Pg3e6HX0=
 			</data>
 		</dict>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -250,7 +216,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PPV4SrbvsOBtk2HFOxBbV4UxyaFzhIeDylitrtZbP+c=
+			g0MovYU9lSoYdHPIy6UZk3q6NxeZ63PreojOFhSfrS8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -258,27 +224,6 @@
 			<key>hash2</key>
 			<data>
 			fFV4yDhoxk2Zr9fwfpeJlvSD66K3v7Z2MetZS82F59Y=
-			</data>
-		</dict>
-		<key>PaymentOrderSDK.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7B/wXB5GqrFE6NqTwsgQCE2cOaAtk61NXqvOOqS05do=
-			</data>
-		</dict>
-		<key>PaymentToken.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WwsrMzfyoUJVX47rcv7HmZp0oaAqv8YDfH06Ds9PEo4=
-			</data>
-		</dict>
-		<key>RemoteConfig.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iQZ2/089lRShhhr7GsCjFkrUJgumdnkkZ+ONiF9dQBE=
 			</data>
 		</dict>
 		<key>SB Sans Text Medium.ttf</key>
@@ -350,7 +295,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zCOa0nvySKr7VzUAWtpW9ag+heUojUSplUCcv93Tbl4=
+			YJNaQ87gS5+UaEKtxwFpfQGJ1ev/+vk2JZ/gnVOYeL4=
 			</data>
 			<key>optional</key>
 			<true/>
