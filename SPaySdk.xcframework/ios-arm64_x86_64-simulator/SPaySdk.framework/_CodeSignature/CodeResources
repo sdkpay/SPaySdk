@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		wLoEeMUTaHxtVSsvTLOIS5itQ5s=
+		iqgWko0JfJkvdWgdkHdGAqVCLLo=
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		diMxdglVQiR02EhixdV0UmIdWko=
+		rz4oPCbJtZSJFy1BAXkzjSk7bIc=
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		wLoEeMUTaHxtVSsvTLOIS5itQ5s=
+		iqgWko0JfJkvdWgdkHdGAqVCLLo=
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		49LFN2rr0X03Pnd8DDeK27qNY/Q=
+		Y7D8XjsV+04b9HdJ/ynPCK2klJU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -84,10 +84,6 @@
 		<data>
 		VelGbVz9s6JcJlgZ4/x5N6FkMzw=
 		</data>
-		<key>ecomtest.s.ru.der</key>
-		<data>
-		s5K7A+WovtAK1iIS/TgZk/kPjVU=
-		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -97,6 +93,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ift.gate1.spaymentsplus.ru.der</key>
+		<data>
+		DBlyKZH9CzAUQK5TE1K111kkuO8=
+		</data>
 		<key>neg.mp3</key>
 		<data>
 		JyoWN+U/LmHm2PaCNJpzYiFvJQI=
@@ -153,7 +153,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t7f+HLwmh1CV3imtRQKwuOF/RPL63DYk6Y2Pg3e6HX0=
+			B7/9fTb9PEtlbo6eKEFjsa+jJWjJIoqfApVVCxHIaMo=
 			</data>
 		</dict>
 		<key>Modules/SPaySdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -181,14 +181,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V2n/g9LQdB2nWzQEqg6HADSc02I6kmmD8h+qb7migzs=
+			cfbtMQulNhsj1Nqzf3Zs1/mMogQkNNzmuDqO6wvCN7k=
 			</data>
 		</dict>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t7f+HLwmh1CV3imtRQKwuOF/RPL63DYk6Y2Pg3e6HX0=
+			B7/9fTb9PEtlbo6eKEFjsa+jJWjJIoqfApVVCxHIaMo=
 			</data>
 		</dict>
 		<key>Modules/SPaySdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -216,7 +216,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0MovYU9lSoYdHPIy6UZk3q6NxeZ63PreojOFhSfrS8=
+			A0RZzx3TjyiN/Yl20DvNChwEkSfIWS5Gfkt7crvSuBk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -254,13 +254,6 @@
 			hAbK7NdcmsFVyr/5BvjxfMRButvS1rbKNI8g8+HmzJk=
 			</data>
 		</dict>
-		<key>ecomtest.s.ru.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			a/hcOI06CwuvcKI9t1tEzc8YsIkw1AP3tXpbXkFoMoI=
-			</data>
-		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -269,6 +262,13 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>ift.gate1.spaymentsplus.ru.der</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G9+CFMLnzXHRpavemc1+g7dr49pu1OlECFRdAJHI42U=
+			</data>
 		</dict>
 		<key>neg.mp3</key>
 		<dict>
