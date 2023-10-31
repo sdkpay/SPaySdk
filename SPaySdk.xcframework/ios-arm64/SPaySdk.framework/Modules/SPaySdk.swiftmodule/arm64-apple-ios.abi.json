@@ -7941,65 +7941,65 @@
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 742,
+      "offset": 750,
+      "length": 15,
+      "value": "\"ExchangeToken\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 772,
+      "length": 6,
+      "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 794,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 808,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 890,
+      "length": 7,
+      "value": "\"GetIp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 904,
+      "length": 6,
+      "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 926,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 940,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
       "length": 11,
       "value": "\"ListCards\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 760,
-      "length": 6,
-      "value": "\"json\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 782,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 796,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 874,
-      "length": 5,
-      "value": "\"OTP\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 886,
-      "length": 6,
-      "value": "\"json\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 908,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 922,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
-      "kind": "StringLiteral",
-      "offset": 1024,
-      "length": 17,
-      "value": "\"PaymentOrderSDK\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
@@ -8025,140 +8025,196 @@
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1186,
+      "offset": 1162,
+      "length": 5,
+      "value": "\"OTP\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1174,
+      "length": 6,
+      "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1196,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1210,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1312,
+      "length": 17,
+      "value": "\"PaymentOrderSDK\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1336,
+      "length": 6,
+      "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1358,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1372,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
+      "kind": "StringLiteral",
+      "offset": 1474,
       "length": 17,
       "value": "\"PaymentPlanBnpl\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1210,
+      "offset": 1498,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1232,
+      "offset": 1520,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1246,
+      "offset": 1534,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1342,
+      "offset": 1630,
       "length": 14,
       "value": "\"PaymentToken\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1363,
+      "offset": 1651,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1385,
+      "offset": 1673,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1399,
+      "offset": 1687,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1495,
+      "offset": 1783,
       "length": 14,
       "value": "\"RemoteConfig\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1516,
+      "offset": 1804,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1538,
+      "offset": 1826,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1552,
+      "offset": 1840,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1638,
+      "offset": 1926,
       "length": 9,
       "value": "\"SendOtp\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1654,
+      "offset": 1942,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1676,
+      "offset": 1964,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1690,
+      "offset": 1978,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1780,
+      "offset": 2068,
       "length": 11,
       "value": "\"SessionId\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1798,
+      "offset": 2086,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1820,
+      "offset": 2108,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Files.swift",
       "kind": "StringLiteral",
-      "offset": 1834,
+      "offset": 2122,
       "length": 18,
       "value": "\"application\/json\""
     },
