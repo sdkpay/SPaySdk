@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SPaySDK"
-  spec.version      = "2.0.5"
+  spec.version      = "2.0.6"
   spec.summary      = "A sdk for paymenting in online shops."
   spec.description  = "A short description of PaySkd. This pod help for payment in online shops"
   spec.homepage     = "https://github.com/sdkpay/SPaySdk"
