@@ -8439,42 +8439,42 @@
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Services\/AlertService\/AlertService.swift",
       "kind": "StringLiteral",
-      "offset": 11902,
+      "offset": 11901,
       "length": 17,
       "value": "\"StatusErrorView\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Services\/AlertService\/AlertService.swift",
       "kind": "StringLiteral",
-      "offset": 11955,
+      "offset": 11954,
       "length": 14,
       "value": "\"TimeOutRetry\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Services\/AlertService\/AlertService.swift",
       "kind": "BooleanLiteral",
-      "offset": 14337,
+      "offset": 14336,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Services\/AlertService\/AlertService.swift",
       "kind": "BooleanLiteral",
-      "offset": 15076,
+      "offset": 15075,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Services\/AlertService\/AlertService.swift",
       "kind": "BooleanLiteral",
-      "offset": 15206,
+      "offset": 15205,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Services\/AlertService\/AlertService.swift",
       "kind": "BooleanLiteral",
-      "offset": 15318,
+      "offset": 15317,
       "length": 4,
       "value": "true"
     },
@@ -9069,28 +9069,28 @@
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/AuthVC\/AuthPresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 11686,
+      "offset": 11794,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/AuthVC\/AuthPresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 13580,
+      "offset": 13688,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/AuthVC\/AuthPresenter.swift",
       "kind": "BooleanLiteral",
-      "offset": 16534,
+      "offset": 16642,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/AuthVC\/AuthPresenter.swift",
       "kind": "BooleanLiteral",
-      "offset": 18102,
+      "offset": 18274,
       "length": 4,
       "value": "true"
     },
@@ -22810,1953 +22810,1953 @@
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 1505,
+      "offset": 1487,
       "length": 7,
       "value": "\"Alert\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 1514,
+      "offset": 1496,
       "length": 21,
       "value": "\"button.return.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 1547,
-      "length": 34,
-      "value": "\"К способам оплаты\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 1749,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 1758,
-      "length": 15,
-      "value": "\"connect.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 1809,
-      "length": 33,
-      "value": "\"Подключили SberPay %@\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2071,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2080,
-      "length": 21,
-      "value": "\"error.main.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2113,
-      "length": 99,
-      "value": "\"Попробуйте ещё раз или выберите другой способ оплаты\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2316,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2325,
-      "length": 18,
-      "value": "\"error.main.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2355,
-      "length": 44,
-      "value": "\"Не получилось оплатить\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2653,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2662,
-      "length": 17,
-      "value": "\"otp.error.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 2691,
-      "length": 117,
-      "value": "\"Вы исчерпали попытки ввода кода.\nВыберете другой метод оплаты.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3122,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3131,
-      "length": 17,
-      "value": "\"pay.error.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3160,
-      "length": 177,
-      "value": "\"Сервис оплаты частями недоступен. \nОплатите заказ полностью или выберите другой способ оплаты.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3579,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3588,
-      "length": 23,
-      "value": "\"pay.no.cards.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3623,
-      "length": 112,
-      "value": "\"Но можем выпустить цифровую Сберкарту всего за пару нажатий\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3839,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3848,
-      "length": 20,
-      "value": "\"pay.no.cards.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 3880,
-      "length": 40,
-      "value": "\"Нет подходящих карт. \""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4111,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4120,
-      "length": 26,
-      "value": "\"pay.no.internet.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4158,
-      "length": 81,
-      "value": "\"Проверьте подключение и попробуйте ещё раз\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4330,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4339,
-      "length": 23,
-      "value": "\"pay.no.internet.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4374,
-      "length": 27,
-      "value": "\"Нет интернета\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4631,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4640,
-      "length": 25,
-      "value": "\"pay.no.waiting.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4701,
-      "length": 80,
-      "value": "\"Следите за статусом в Истории приложения %@\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4893,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4902,
-      "length": 22,
-      "value": "\"pay.no.waiting.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 4936,
-      "length": 36,
-      "value": "\"Платеж в обработке\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5219,
-      "length": 7,
-      "value": "\"Alert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5228,
-      "length": 19,
-      "value": "\"pay.success.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5259,
-      "length": 33,
-      "value": "\"Успешно оплатили\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5410,
-      "length": 15,
-      "value": "\"BankAppPicker\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5427,
-      "length": 7,
-      "value": "\"close\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5446,
+      "offset": 1529,
       "length": 16,
       "value": "\"Закрыть\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 5582,
-      "length": 15,
-      "value": "\"BankAppPicker\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5599,
-      "length": 12,
-      "value": "\"deprecated\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5623,
-      "length": 63,
-      "value": "\"Не получилось открыть приложение\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5911,
-      "length": 15,
-      "value": "\"BankAppPicker\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5928,
-      "length": 10,
-      "value": "\"subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 5974,
-      "length": 63,
-      "value": "\"Разрешите «%@» открыть приложение\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6250,
+      "offset": 1713,
       "length": 7,
-      "value": "\"Cards\""
+      "value": "\"Alert\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 6259,
-      "length": 7,
-      "value": "\"title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6278,
-      "length": 17,
-      "value": "\"К оплате\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6406,
-      "length": 7,
-      "value": "\"Cards\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6415,
-      "length": 11,
-      "value": "\"new.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6438,
-      "length": 31,
-      "value": "\"Выпустить карту\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6605,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6615,
-      "length": 12,
-      "value": "\"back.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6639,
-      "length": 20,
-      "value": "\"Вернуться\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6766,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6776,
-      "length": 14,
-      "value": "\"cancel.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6802,
-      "length": 18,
-      "value": "\"Отменить\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6937,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6947,
-      "length": 18,
-      "value": "\"cancel.pay.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 6977,
-      "length": 31,
-      "value": "\"Отменить оплату\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7128,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7138,
+      "offset": 1722,
       "length": 15,
       "value": "\"connect.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 7165,
-      "length": 22,
-      "value": "\"Подключить\""
+      "offset": 1773,
+      "length": 33,
+      "value": "\"Подключили SberPay %@\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 7321,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7331,
-      "length": 12,
-      "value": "\"from.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7379,
-      "length": 10,
-      "value": "\" из %@\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7498,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7508,
-      "length": 10,
-      "value": "\"ok.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7530,
-      "length": 16,
-      "value": "\"Понятно\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7771,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7781,
-      "length": 11,
-      "value": "\"pay.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7804,
-      "length": 18,
-      "value": "\"Оплатить\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7946,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7956,
-      "length": 16,
-      "value": "\"pay.full.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 7984,
-      "length": 37,
-      "value": "\"Оплатить полностью\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8152,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8162,
-      "length": 14,
-      "value": "\"return.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8188,
-      "length": 34,
-      "value": "\"К способам оплаты\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8326,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8336,
-      "length": 13,
-      "value": "\"today.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8361,
-      "length": 16,
-      "value": "\"сегодня\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8501,
-      "length": 8,
-      "value": "\"Common\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8511,
-      "length": 11,
-      "value": "\"try.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8534,
-      "length": 38,
-      "value": "\"Попробовать ещё раз\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8690,
+      "offset": 2035,
       "length": 7,
-      "value": "\"Error\""
+      "value": "\"Alert\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 8699,
+      "offset": 2044,
+      "length": 21,
+      "value": "\"error.main.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2077,
+      "length": 99,
+      "value": "\"Попробуйте ещё раз или выберите другой способ оплаты\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2280,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2289,
+      "length": 18,
+      "value": "\"error.main.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2319,
+      "length": 44,
+      "value": "\"Не получилось оплатить\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2617,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2626,
+      "length": 17,
+      "value": "\"otp.error.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 2655,
+      "length": 117,
+      "value": "\"Вы исчерпали попытки ввода кода.\nВыберете другой метод оплаты.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3086,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3095,
+      "length": 17,
+      "value": "\"pay.error.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3124,
+      "length": 177,
+      "value": "\"Сервис оплаты частями недоступен. \nОплатите заказ полностью или выберите другой способ оплаты.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3543,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3552,
+      "length": 23,
+      "value": "\"pay.no.cards.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3587,
+      "length": 112,
+      "value": "\"Но можем выпустить цифровую Сберкарту всего за пару нажатий\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3803,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3812,
+      "length": 20,
+      "value": "\"pay.no.cards.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 3844,
+      "length": 40,
+      "value": "\"Нет подходящих карт. \""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4075,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4084,
+      "length": 26,
+      "value": "\"pay.no.internet.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4122,
+      "length": 81,
+      "value": "\"Проверьте подключение и попробуйте ещё раз\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4294,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4303,
+      "length": 23,
+      "value": "\"pay.no.internet.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4338,
+      "length": 27,
+      "value": "\"Нет интернета\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4595,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4604,
+      "length": 25,
+      "value": "\"pay.no.waiting.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4665,
+      "length": 80,
+      "value": "\"Следите за статусом в Истории приложения %@\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4857,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4866,
+      "length": 22,
+      "value": "\"pay.no.waiting.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 4900,
+      "length": 36,
+      "value": "\"Платеж в обработке\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 5183,
+      "length": 7,
+      "value": "\"Alert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 5192,
+      "length": 19,
+      "value": "\"pay.success.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 5223,
+      "length": 33,
+      "value": "\"Успешно оплатили\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 5374,
+      "length": 15,
+      "value": "\"BankAppPicker\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 5391,
       "length": 7,
       "value": "\"close\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 8718,
-      "length": 32,
-      "value": "\"Клиент закрыл SDK.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8871,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8880,
-      "length": 8,
-      "value": "\"format\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 8900,
-      "length": 68,
-      "value": "\"Некорректный формат запроса\/ответа.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9053,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9062,
-      "length": 15,
-      "value": "\"inncorectCode\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9089,
-      "length": 25,
-      "value": "\"Неверный код\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9219,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9228,
-      "length": 13,
-      "value": "\"lifeTimeOut\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9253,
-      "length": 47,
-      "value": "\"Истекло время жизни кода\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9480,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9489,
-      "length": 8,
-      "value": "\"system\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9509,
-      "length": 62,
-      "value": "\"Системная или внутренняя ошибка.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9701,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9710,
-      "length": 9,
-      "value": "\"timeout\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9731,
-      "length": 76,
-      "value": "\"Истек таймаут ожидания ответа с сервера.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9983,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 9992,
-      "length": 8,
-      "value": "\"trying\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10012,
-      "length": 116,
-      "value": "\"Вы исчерпали попытки ввода кода.\nВыберете другой метод оплаты\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10231,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10240,
-      "length": 12,
-      "value": "\"validation\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10264,
-      "length": 46,
-      "value": "\"Ошибка валидации данных\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10475,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10484,
-      "length": 19,
-      "value": "\"configError.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10515,
-      "length": 77,
-      "value": "\"Ошибка загрузки конфигурационного файла\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10758,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10767,
-      "length": 18,
-      "value": "\"noMoney.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10797,
-      "length": 73,
-      "value": "\"Пополните карту и и попробуйте ещё раз\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10982,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 10991,
-      "length": 15,
-      "value": "\"noMoney.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11018,
-      "length": 56,
-      "value": "\"Оплатить со SberPay не получится\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11246,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11255,
-      "length": 18,
-      "value": "\"partpay.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11285,
-      "length": 79,
-      "value": "\"Пожалуйста, выберите другой способ оплаты\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11470,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11479,
-      "length": 15,
-      "value": "\"partpay.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11506,
-      "length": 50,
-      "value": "\"Оплата частями недоступна\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11739,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11748,
-      "length": 23,
-      "value": "\"timeOutRetry.subtilte\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 11783,
-      "length": 85,
-      "value": "\"Таймаут отправки для повторного запроса кода\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12019,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12028,
-      "length": 18,
-      "value": "\"version.subtitle\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12058,
-      "length": 58,
-      "value": "\"Выберите другой способ оплаты.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12207,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12216,
-      "length": 15,
-      "value": "\"version.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12243,
-      "length": 35,
-      "value": "\"Сервис недоступен\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12489,
-      "length": 6,
-      "value": "\"Fake\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12497,
-      "length": 7,
-      "value": "\"title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12516,
-      "length": 142,
-      "value": "\"Это тестовый режим\nТут происходит авторизация в мобильном приложении банка\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12859,
-      "length": 9,
-      "value": "\"Helpers\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12870,
-      "length": 26,
-      "value": "\"helpers.creditCard.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 12908,
-      "length": 50,
-      "value": "\"Выпустить кредитную карту\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13103,
-      "length": 9,
-      "value": "\"Helpers\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13114,
-      "length": 26,
-      "value": "\"helpers.debittCard.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13152,
-      "length": 44,
-      "value": "\"У вас нет активных карт\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13431,
-      "length": 9,
-      "value": "\"Helpers\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13442,
-      "length": 19,
-      "value": "\"helpers.sbp.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13473,
-      "length": 41,
-      "value": "\"Перевести себе по СБП\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13769,
-      "length": 7,
-      "value": "\"Hints\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13778,
-      "length": 11,
-      "value": "\"all.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 13801,
-      "length": 125,
-      "value": "\"Не хватает денег для оплаты, но можем предложить вам другие способы\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14094,
-      "length": 7,
-      "value": "\"Hints\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14103,
-      "length": 12,
-      "value": "\"bnpl.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14127,
-      "length": 81,
-      "value": "\"Не хватает денег, но можно оплатить частями\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14319,
-      "length": 7,
-      "value": "\"Hints\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14328,
-      "length": 20,
-      "value": "\"compoundWallet.two\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14360,
+      "offset": 5410,
       "length": 16,
-      "value": "\"счетами\""
+      "value": "\"Закрыть\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 14577,
-      "length": 7,
-      "value": "\"Hints\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14586,
-      "length": 14,
-      "value": "\"credit.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14612,
-      "length": 112,
-      "value": "\"Не хватает денег для оплаты, но вы можете выпустить кредитку\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14880,
-      "length": 7,
-      "value": "\"Hints\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14889,
-      "length": 17,
-      "value": "\"notEnouth.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 14918,
-      "length": 64,
-      "value": "\"Кажется, не хватает денег на карте\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15169,
-      "length": 7,
-      "value": "\"Hints\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15178,
-      "length": 11,
-      "value": "\"sbp.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15201,
-      "length": 101,
-      "value": "\"Не хватает денег для оплаты. Пополните карты через СБП\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15471,
-      "length": 9,
-      "value": "\"Loading\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15482,
-      "length": 16,
-      "value": "\"get.data.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15510,
-      "length": 22,
-      "value": "\"Секундочку\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15741,
-      "length": 9,
-      "value": "\"Loading\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15752,
-      "length": 17,
-      "value": "\"showCards.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 15781,
-      "length": 109,
-      "value": "\"Переходим в СберБанк Онлайн, чтобы показать вам ваши карты\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 16101,
-      "length": 9,
-      "value": "\"Loading\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 16112,
+      "offset": 5546,
       "length": 15,
-      "value": "\"to.bank.title\""
+      "value": "\"BankAppPicker\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 16163,
-      "length": 56,
-      "value": "\"Переходим в %@ для авторизации\""
+      "offset": 5563,
+      "length": 12,
+      "value": "\"deprecated\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 16531,
-      "length": 9,
-      "value": "\"Loading\""
+      "offset": 5587,
+      "length": 63,
+      "value": "\"Не получилось открыть приложение\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 16542,
-      "length": 18,
-      "value": "\"try.to.pay.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 16572,
-      "length": 34,
-      "value": "\"Проводим оплату...\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 16877,
-      "length": 8,
-      "value": "\"Logout\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 16887,
+      "offset": 5875,
       "length": 15,
-      "value": "\"button.logout\""
+      "value": "\"BankAppPicker\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 16914,
-      "length": 32,
-      "value": "\"Выйти из профиля\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17070,
-      "length": 8,
-      "value": "\"Logout\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17080,
-      "length": 20,
-      "value": "\"button.logout.back\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17112,
-      "length": 36,
-      "value": "\"Вернуться к оплате\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17353,
-      "length": 15,
-      "value": "\"MerchantAlert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17370,
-      "length": 8,
-      "value": "\"apikey\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17390,
-      "length": 95,
-      "value": "\"⛔️ Передайте apiKey в методе setup или в текущем методе.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17686,
-      "length": 15,
-      "value": "\"MerchantAlert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17703,
-      "length": 9,
-      "value": "\"version\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 17724,
-      "length": 147,
-      "value": "\"🔔 Вышла новая версия SDK! Обновитесь для получения доступа к новому функционалу\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18059,
-      "length": 15,
-      "value": "\"MerchantAlert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18076,
+      "offset": 5892,
       "length": 10,
-      "value": "\"no.param\""
+      "value": "\"subtitle\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 18122,
-      "length": 72,
-      "value": "\"⛔️ Передайте обязательный параметр %@\""
+      "offset": 5938,
+      "length": 63,
+      "value": "\"Разрешите «%@» открыть приложение\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 18416,
-      "length": 15,
-      "value": "\"MerchantAlert\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18433,
-      "length": 13,
-      "value": "\"param.count\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18486,
-      "length": 78,
-      "value": "\"⛔️ Параметр %@ должен содержать %d символа\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18730,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18737,
-      "length": 19,
-      "value": "\"back.button.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18768,
-      "length": 12,
-      "value": "\"Назад\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18944,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18951,
-      "length": 17,
-      "value": "\"button.otp.back\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 18980,
-      "length": 38,
-      "value": "\"Вернуться в магазин\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19168,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19175,
-      "length": 19,
-      "value": "\"next.button.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19206,
-      "length": 22,
-      "value": "\"Продолжить\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19461,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19468,
-      "length": 19,
-      "value": "\"placeholder.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19499,
-      "length": 35,
-      "value": "\"Код-подтверждение\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19655,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19662,
-      "length": 23,
-      "value": "\"textField.placeholder\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19697,
-      "length": 23,
-      "value": "\"Введите код\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19902,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19909,
-      "length": 31,
-      "value": "\"textField.error.timeout.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 19952,
-      "length": 58,
-      "value": "\"Истёк срок действия этого кода\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20175,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20182,
-      "length": 29,
-      "value": "\"textField.error.wrong.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20223,
-      "length": 61,
-      "value": "\"Неверный код. Повторите попытку.\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20497,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20504,
-      "length": 29,
-      "value": "\"time.button.repeat.isActive\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20545,
-      "length": 37,
-      "value": "\"Отправить повторно\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20757,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20764,
-      "length": 32,
-      "value": "\"time.button.repeat.isNotActive\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 20832,
-      "length": 64,
-      "value": "\"Отправить повторно через %@ секунд\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21187,
-      "length": 5,
-      "value": "\"Otp\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21194,
-      "length": 26,
-      "value": "\"titleLabel.message.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21256,
-      "length": 84,
-      "value": "\"Введите код подтверждения из СМС\n на номер %@\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21460,
-      "length": 9,
-      "value": "\"PartPay\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21471,
+      "offset": 6214,
       "length": 7,
-      "value": "\"final\""
+      "value": "\"Cards\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 21490,
-      "length": 12,
-      "value": "\"Итого\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21683,
-      "length": 9,
-      "value": "\"PartPay\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21694,
+      "offset": 6223,
       "length": 7,
       "value": "\"title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 21713,
-      "length": 27,
-      "value": "\"Плати частями\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21847,
-      "length": 9,
-      "value": "\"PartPay\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21858,
-      "length": 14,
-      "value": "\"accept.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 21884,
-      "length": 24,
-      "value": "\"Подтвердить\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 22063,
-      "length": 9,
-      "value": "\"PartPay\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 22074,
-      "length": 21,
-      "value": "\"active.button.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 22107,
-      "length": 33,
-      "value": "\"Оплатить частями\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 22262,
-      "length": 9,
-      "value": "\"PartPay\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 22273,
+      "offset": 6242,
       "length": 17,
-      "value": "\"agreement.title\""
+      "value": "\"К оплате\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22302,
-      "length": 22,
-      "value": "\"соглашения\""
+      "offset": 6370,
+      "length": 7,
+      "value": "\"Cards\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22431,
-      "length": 9,
-      "value": "\"PartPay\""
+      "offset": 6379,
+      "length": 11,
+      "value": "\"new.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22442,
+      "offset": 6402,
+      "length": 31,
+      "value": "\"Выпустить карту\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 6569,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 6579,
+      "length": 12,
+      "value": "\"back.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 6603,
+      "length": 20,
+      "value": "\"Вернуться\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 6730,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 6740,
       "length": 14,
       "value": "\"cancel.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22468,
+      "offset": 6766,
       "length": 18,
       "value": "\"Отменить\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22683,
-      "length": 9,
-      "value": "\"PartPay\""
+      "offset": 6901,
+      "length": 8,
+      "value": "\"Common\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22694,
+      "offset": 6911,
       "length": 18,
-      "value": "\"commission.title\""
+      "value": "\"cancel.pay.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22748,
-      "length": 67,
-      "value": "\"Комиссия %@ включена в первый платёж\""
+      "offset": 6941,
+      "length": 31,
+      "value": "\"Отменить оплату\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22951,
-      "length": 9,
-      "value": "\"PartPay\""
+      "offset": 7092,
+      "length": 8,
+      "value": "\"Common\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22962,
+      "offset": 7102,
+      "length": 15,
+      "value": "\"connect.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7129,
+      "length": 22,
+      "value": "\"Подключить\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7285,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7295,
+      "length": 12,
+      "value": "\"from.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7343,
+      "length": 10,
+      "value": "\" из %@\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7462,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7472,
+      "length": 10,
+      "value": "\"ok.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7494,
       "length": 16,
-      "value": "\"contract.title\""
+      "value": "\"Понятно\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 22990,
+      "offset": 7735,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7745,
+      "length": 11,
+      "value": "\"pay.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7768,
+      "length": 18,
+      "value": "\"Оплатить\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7910,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7920,
+      "length": 16,
+      "value": "\"pay.full.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 7948,
       "length": 37,
-      "value": "\"условиями договора\""
+      "value": "\"Оплатить полностью\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23156,
-      "length": 9,
-      "value": "\"PartPay\""
+      "offset": 8098,
+      "length": 8,
+      "value": "\"Common\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23167,
-      "length": 16,
-      "value": "\"inactive.title\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 23195,
-      "length": 38,
-      "value": "\"Разбить на 4 платежа\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 23404,
-      "length": 9,
-      "value": "\"Payment\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 23415,
-      "length": 26,
-      "value": "\"cards.compoundWallet.one\""
-    },
-    {
-      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
-      "kind": "StringLiteral",
-      "offset": 23453,
+      "offset": 8108,
       "length": 14,
-      "value": "\"счетом\""
+      "value": "\"return.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23573,
-      "length": 9,
-      "value": "\"Payment\""
+      "offset": 8134,
+      "length": 16,
+      "value": "\"Закрыть\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23584,
-      "length": 28,
-      "value": "\"cards.compoundWallet.title\""
+      "offset": 8254,
+      "length": 8,
+      "value": "\"Common\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23648,
+      "offset": 8264,
+      "length": 13,
+      "value": "\"today.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8289,
+      "length": 16,
+      "value": "\"сегодня\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8429,
+      "length": 8,
+      "value": "\"Common\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8439,
+      "length": 11,
+      "value": "\"try.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8462,
+      "length": 38,
+      "value": "\"Попробовать ещё раз\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8618,
       "length": 7,
-      "value": "\" c %@\""
+      "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23739,
+      "offset": 8627,
+      "length": 7,
+      "value": "\"close\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8646,
+      "length": 32,
+      "value": "\"Клиент закрыл SDK.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8799,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8808,
+      "length": 8,
+      "value": "\"format\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8828,
+      "length": 68,
+      "value": "\"Некорректный формат запроса\/ответа.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8981,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 8990,
+      "length": 15,
+      "value": "\"inncorectCode\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9017,
+      "length": 25,
+      "value": "\"Неверный код\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9147,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9156,
+      "length": 13,
+      "value": "\"lifeTimeOut\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9181,
+      "length": 47,
+      "value": "\"Истекло время жизни кода\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9408,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9417,
+      "length": 8,
+      "value": "\"system\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9437,
+      "length": 62,
+      "value": "\"Системная или внутренняя ошибка.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9629,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9638,
       "length": 9,
-      "value": "\"Payment\""
+      "value": "\"timeout\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23750,
+      "offset": 9659,
+      "length": 76,
+      "value": "\"Истек таймаут ожидания ответа с сервера.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9911,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9920,
+      "length": 8,
+      "value": "\"trying\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 9940,
+      "length": 116,
+      "value": "\"Вы исчерпали попытки ввода кода.\nВыберете другой метод оплаты\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10159,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10168,
+      "length": 12,
+      "value": "\"validation\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10192,
+      "length": 46,
+      "value": "\"Ошибка валидации данных\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10403,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10412,
+      "length": 19,
+      "value": "\"configError.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10443,
+      "length": 77,
+      "value": "\"Ошибка загрузки конфигурационного файла\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10683,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10692,
+      "length": 18,
+      "value": "\"noMoney.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10722,
+      "length": 70,
+      "value": "\"Пополните карту и попробуйте ещё раз\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10904,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10913,
+      "length": 15,
+      "value": "\"noMoney.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 10940,
+      "length": 56,
+      "value": "\"Оплатить со SberPay не получится\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11168,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11177,
+      "length": 18,
+      "value": "\"partpay.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11207,
+      "length": 79,
+      "value": "\"Пожалуйста, выберите другой способ оплаты\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11392,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11401,
+      "length": 15,
+      "value": "\"partpay.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11428,
+      "length": 50,
+      "value": "\"Оплата частями недоступна\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11661,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11670,
+      "length": 23,
+      "value": "\"timeOutRetry.subtilte\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11705,
+      "length": 85,
+      "value": "\"Таймаут отправки для повторного запроса кода\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11941,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11950,
+      "length": 18,
+      "value": "\"version.subtitle\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 11980,
+      "length": 58,
+      "value": "\"Выберите другой способ оплаты.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12129,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12138,
+      "length": 15,
+      "value": "\"version.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12165,
+      "length": 35,
+      "value": "\"Сервис недоступен\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12411,
+      "length": 6,
+      "value": "\"Fake\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12419,
+      "length": 7,
+      "value": "\"title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12438,
+      "length": 142,
+      "value": "\"Это тестовый режим\nТут происходит авторизация в мобильном приложении банка\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12781,
+      "length": 9,
+      "value": "\"Helpers\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 12792,
       "length": 26,
-      "value": "\"cards.compoundWallet.two\""
+      "value": "\"helpers.creditCard.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23788,
+      "offset": 12830,
+      "length": 50,
+      "value": "\"Выпустить кредитную карту\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13025,
+      "length": 9,
+      "value": "\"Helpers\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13036,
+      "length": 26,
+      "value": "\"helpers.debittCard.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13074,
+      "length": 44,
+      "value": "\"У вас нет активных карт\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13353,
+      "length": 9,
+      "value": "\"Helpers\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13364,
+      "length": 19,
+      "value": "\"helpers.sbp.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13395,
+      "length": 41,
+      "value": "\"Перевести себе по СБП\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13691,
+      "length": 7,
+      "value": "\"Hints\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13700,
+      "length": 11,
+      "value": "\"all.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 13723,
+      "length": 125,
+      "value": "\"Не хватает денег для оплаты, но можем предложить вам другие способы\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14016,
+      "length": 7,
+      "value": "\"Hints\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14025,
+      "length": 12,
+      "value": "\"bnpl.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14049,
+      "length": 81,
+      "value": "\"Не хватает денег, но можно оплатить частями\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14241,
+      "length": 7,
+      "value": "\"Hints\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14250,
+      "length": 20,
+      "value": "\"compoundWallet.two\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14282,
       "length": 16,
       "value": "\"счетами\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23949,
+      "offset": 14499,
+      "length": 7,
+      "value": "\"Hints\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14508,
+      "length": 14,
+      "value": "\"credit.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14534,
+      "length": 112,
+      "value": "\"Не хватает денег для оплаты, но вы можете выпустить кредитку\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14802,
+      "length": 7,
+      "value": "\"Hints\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14811,
+      "length": 17,
+      "value": "\"notEnouth.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 14840,
+      "length": 64,
+      "value": "\"Кажется, не хватает денег на карте\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15091,
+      "length": 7,
+      "value": "\"Hints\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15100,
+      "length": 11,
+      "value": "\"sbp.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15123,
+      "length": 101,
+      "value": "\"Не хватает денег для оплаты. Пополните карты через СБП\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15393,
+      "length": 9,
+      "value": "\"Loading\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15404,
+      "length": 16,
+      "value": "\"get.data.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15432,
+      "length": 22,
+      "value": "\"Секундочку\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15663,
+      "length": 9,
+      "value": "\"Loading\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15674,
+      "length": 17,
+      "value": "\"showCards.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 15703,
+      "length": 109,
+      "value": "\"Переходим в СберБанк Онлайн, чтобы показать вам ваши карты\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16023,
+      "length": 9,
+      "value": "\"Loading\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16034,
+      "length": 15,
+      "value": "\"to.bank.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16085,
+      "length": 56,
+      "value": "\"Переходим в %@ для авторизации\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16453,
+      "length": 9,
+      "value": "\"Loading\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16464,
+      "length": 18,
+      "value": "\"try.to.pay.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16494,
+      "length": 34,
+      "value": "\"Проводим оплату...\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16799,
+      "length": 8,
+      "value": "\"Logout\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16809,
+      "length": 15,
+      "value": "\"button.logout\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16836,
+      "length": 32,
+      "value": "\"Выйти из профиля\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 16992,
+      "length": 8,
+      "value": "\"Logout\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17002,
+      "length": 20,
+      "value": "\"button.logout.back\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17034,
+      "length": 36,
+      "value": "\"Вернуться к оплате\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17275,
+      "length": 15,
+      "value": "\"MerchantAlert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17292,
+      "length": 8,
+      "value": "\"apikey\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17312,
+      "length": 95,
+      "value": "\"⛔️ Передайте apiKey в методе setup или в текущем методе.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17608,
+      "length": 15,
+      "value": "\"MerchantAlert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17625,
+      "length": 9,
+      "value": "\"version\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17646,
+      "length": 147,
+      "value": "\"🔔 Вышла новая версия SDK! Обновитесь для получения доступа к новому функционалу\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17981,
+      "length": 15,
+      "value": "\"MerchantAlert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 17998,
+      "length": 10,
+      "value": "\"no.param\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18044,
+      "length": 72,
+      "value": "\"⛔️ Передайте обязательный параметр %@\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18338,
+      "length": 15,
+      "value": "\"MerchantAlert\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18355,
+      "length": 13,
+      "value": "\"param.count\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18408,
+      "length": 78,
+      "value": "\"⛔️ Параметр %@ должен содержать %d символа\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18652,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18659,
+      "length": 19,
+      "value": "\"back.button.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18690,
+      "length": 12,
+      "value": "\"Назад\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18866,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18873,
+      "length": 17,
+      "value": "\"button.otp.back\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 18902,
+      "length": 38,
+      "value": "\"Вернуться в магазин\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19090,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19097,
+      "length": 19,
+      "value": "\"next.button.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19128,
+      "length": 22,
+      "value": "\"Продолжить\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19383,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19390,
+      "length": 19,
+      "value": "\"placeholder.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19421,
+      "length": 35,
+      "value": "\"Код-подтверждение\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19577,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19584,
+      "length": 23,
+      "value": "\"textField.placeholder\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19619,
+      "length": 23,
+      "value": "\"Введите код\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19824,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19831,
+      "length": 31,
+      "value": "\"textField.error.timeout.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 19874,
+      "length": 58,
+      "value": "\"Истёк срок действия этого кода\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20097,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20104,
+      "length": 29,
+      "value": "\"textField.error.wrong.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20145,
+      "length": 61,
+      "value": "\"Неверный код. Повторите попытку.\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20419,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20426,
+      "length": 29,
+      "value": "\"time.button.repeat.isActive\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20467,
+      "length": 37,
+      "value": "\"Отправить повторно\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20679,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20686,
+      "length": 32,
+      "value": "\"time.button.repeat.isNotActive\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 20754,
+      "length": 64,
+      "value": "\"Отправить повторно через %@ секунд\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21109,
+      "length": 5,
+      "value": "\"Otp\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21116,
+      "length": 26,
+      "value": "\"titleLabel.message.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21178,
+      "length": 84,
+      "value": "\"Введите код подтверждения из СМС\n на номер %@\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21382,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21393,
+      "length": 7,
+      "value": "\"final\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21412,
+      "length": 12,
+      "value": "\"Итого\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21605,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21616,
+      "length": 7,
+      "value": "\"title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21635,
+      "length": 27,
+      "value": "\"Плати частями\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21769,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21780,
+      "length": 14,
+      "value": "\"accept.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21806,
+      "length": 24,
+      "value": "\"Подтвердить\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21985,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 21996,
+      "length": 21,
+      "value": "\"active.button.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22029,
+      "length": 33,
+      "value": "\"Оплатить частями\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22184,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22195,
+      "length": 17,
+      "value": "\"agreement.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22224,
+      "length": 22,
+      "value": "\"соглашения\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22353,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22364,
+      "length": 14,
+      "value": "\"cancel.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22390,
+      "length": 18,
+      "value": "\"Отменить\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22605,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22616,
+      "length": 18,
+      "value": "\"commission.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22670,
+      "length": 67,
+      "value": "\"Комиссия %@ включена в первый платёж\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22873,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22884,
+      "length": 16,
+      "value": "\"contract.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 22912,
+      "length": 37,
+      "value": "\"условиями договора\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23078,
+      "length": 9,
+      "value": "\"PartPay\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23089,
+      "length": 16,
+      "value": "\"inactive.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23117,
+      "length": 38,
+      "value": "\"Разбить на 4 платежа\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23326,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23960,
+      "offset": 23337,
+      "length": 26,
+      "value": "\"cards.compoundWallet.one\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23375,
+      "length": 14,
+      "value": "\"счетом\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23495,
+      "length": 9,
+      "value": "\"Payment\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23506,
+      "length": 28,
+      "value": "\"cards.compoundWallet.title\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23570,
+      "length": 7,
+      "value": "\" c %@\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23661,
+      "length": 9,
+      "value": "\"Payment\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23672,
+      "length": 26,
+      "value": "\"cards.compoundWallet.two\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23710,
+      "length": 16,
+      "value": "\"счетами\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23871,
+      "length": 9,
+      "value": "\"Payment\""
+    },
+    {
+      "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
+      "kind": "StringLiteral",
+      "offset": 23882,
       "length": 18,
       "value": "\"noCards.subtitle\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 23990,
+      "offset": 23912,
       "length": 44,
       "value": "\"Выберите другой способ\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24224,
+      "offset": 24146,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24235,
+      "offset": 24157,
       "length": 15,
       "value": "\"noCards.title\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24262,
+      "offset": 24184,
       "length": 37,
       "value": "\"Нет карт для оплаты\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24436,
+      "offset": 24358,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24447,
+      "offset": 24369,
       "length": 16,
       "value": "\"part.subtitile\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24499,
+      "offset": 24421,
       "length": 9,
       "value": "\"из %@\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24681,
+      "offset": 24603,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24692,
+      "offset": 24614,
       "length": 27,
       "value": "\"part.commission.subtitile\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24755,
+      "offset": 24677,
       "length": 29,
       "value": "\" (с комиссией %@)\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 24990,
+      "offset": 24912,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 25001,
+      "offset": 24923,
       "length": 31,
       "value": "\"part.subtitile.date.subtitile\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 25068,
+      "offset": 24990,
       "length": 18,
       "value": "\" спишем %@\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 25218,
+      "offset": 25140,
       "length": 9,
       "value": "\"Payment\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 25229,
+      "offset": 25151,
       "length": 37,
       "value": "\"part.subtitile.date.first.subtitile\""
     },
     {
       "filePath": "\/Users\/20828378\/Desktop\/paySDK-ios\/Generated\/Strings.swift",
       "kind": "StringLiteral",
-      "offset": 25278,
+      "offset": 25200,
       "length": 16,
       "value": "\"сегодня\""
     },
