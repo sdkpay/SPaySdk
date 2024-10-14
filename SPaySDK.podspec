@@ -9,12 +9,12 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SPaySDK"
-  spec.version      = "2.2.7"
+  spec.version      = "2.3.0"
   spec.summary      = "A sdk for paymenting in online shops."
   spec.description  = "A short description of PaySkd. This pod help for payment in online shops"
   spec.homepage     = "https://github.com/sdkpay/SPaySdk"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.authors      = { "ArseniyDev" => "arseniy13dry@gmail.com", "AlexSpb199" => "https://t.me/AlexSpb199" }
+  spec.authors      = { "ArseniyDev" => "arseniy13dry@gmail.com" }
   spec.platform     = :ios, "12.0"
   spec.source       = { :git => "https://github.com/sdkpay/SPaySdk.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "SPaySdk.xcframework"
