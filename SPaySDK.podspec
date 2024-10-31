@@ -9,14 +9,15 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SPaySDK"
-  spec.version      = "2.3.0"
+  spec.version      = "2.3.1"
   spec.summary      = "A sdk for paymenting in online shops."
   spec.description  = "A short description of PaySkd. This pod help for payment in online shops"
   spec.homepage     = "https://github.com/sdkpay/SPaySdk"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "ArseniyDev" => "arseniy13dry@gmail.com" }
-  spec.platform     = :ios, "12.0"
+  spec.authors      = { "ArseniyDev" => "arseniy13dry@gmail.com", "AlexSpb199" => "https://t.me/AlexSpb199", "SeryoginMA" => "seroginma@gmail.com" }
+  spec.platform     = :ios, "14.0"
   spec.source       = { :git => "https://github.com/sdkpay/SPaySdk.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "SPaySdk.xcframework"
+  spec.dependency 'ClickstreamSDK', '~> 1.5.0'
 
 end
