@@ -12314,8 +12314,22 @@
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Services\/NetworkService\/CertificateValidator\/Certificates.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 46,
+      "value": "\"hETpgVvaLC0bvcGG3t0cuqiHvr4XyP2MTwCiqhgRWwU=\""
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Services\/NetworkService\/CertificateValidator\/Certificates.swift",
+      "kind": "StringLiteral",
+      "offset": 475,
+      "length": 46,
+      "value": "\"vQShF6mFzSbaVZuJKP9MI0XlfJEANTIaTCCfXf4QxJQ=\""
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Services\/NetworkService\/CertificateValidator\/Certificates.swift",
       "kind": "Array",
-      "offset": 509,
+      "offset": 639,
       "length": 2,
       "value": "[]"
     },
@@ -12339,6 +12353,20 @@
       "offset": 345,
       "length": 46,
       "value": "\"dv+zU0Hr6oZbCiGWUSByMDLA9vDa8C6dvBvHs1M9Qhk=\""
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Services\/NetworkService\/CertificateValidator\/Certificates.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 46,
+      "value": "\"hETpgVvaLC0bvcGG3t0cuqiHvr4XyP2MTwCiqhgRWwU=\""
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Services\/NetworkService\/CertificateValidator\/Certificates.swift",
+      "kind": "StringLiteral",
+      "offset": 475,
+      "length": 46,
+      "value": "\"vQShF6mFzSbaVZuJKP9MI0XlfJEANTIaTCCfXf4QxJQ=\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/ChallengeVC\/ChallengePresenter.swift",
@@ -15996,15 +16024,36 @@
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Managers\/InfoPlistManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2783,
+      "length": 24,
+      "value": "\"NSAllowsArbitraryLoads\""
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Managers\/InfoPlistManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2907,
+      "offset": 2822,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Managers\/InfoPlistManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2946,
+      "offset": 2852,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Managers\/InfoPlistManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3030,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Managers\/InfoPlistManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3083,
       "length": 5,
       "value": "false"
     },
@@ -20288,98 +20337,98 @@
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 6962,
+      "offset": 6858,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "BooleanLiteral",
-      "offset": 7249,
+      "offset": 7145,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "BooleanLiteral",
-      "offset": 7399,
+      "offset": 7295,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 10323,
+      "offset": 10219,
       "length": 12,
       "value": "\"PaySpasibo\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 14949,
+      "offset": 14663,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 15397,
+      "offset": 15111,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 15474,
+      "offset": 15188,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 16042,
+      "offset": 15756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 16443,
+      "offset": 16157,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 16528,
+      "offset": 16242,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 16552,
+      "offset": 16266,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 16753,
+      "offset": 16467,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 17456,
+      "offset": 17170,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mihailseregin\/Desktop\/paySDK-ios\/SPaySdk\/Presentation\/PaymentVC\/Modules\/PaymentModuleVC\/PaymentModulePresenter.swift",
       "kind": "StringLiteral",
-      "offset": 17907,
+      "offset": 17621,
       "length": 2,
       "value": "\"\""
     },
