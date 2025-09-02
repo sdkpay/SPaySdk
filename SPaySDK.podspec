@@ -18,6 +18,5 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "14.0"
   spec.source       = { :git => "https://github.com/sdkpay/SPaySdk.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "SPaySdk.xcframework"
-  spec.dependency 'ClickstreamSDK', '~> 1.5.0'
 
 end
